@@ -1,0 +1,33 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+header{
+    background-color: #7D0A0A;
+
+}
+header span{
+    color:#F3EDC8;
+}
+.nav-item a{
+    color: #F3EDC8;
+}
+/* Link visitado */
+.nav-item a:visited{
+    color: #F3EDC8;
+}
+.nav-item a:hover{
+    color:#BF3131;
+}
+#nav-butoon{
+    background-color: #BF3131;
+}
+.bi{
+    color: #7D0A0A;
+    font-size: 5em;
+}
+.img-proyecto1{
+    background-image: url('/assets/clonpinterest.png');
+    background-size: cover;/*30px*/
+    background-repeat: no-repeat;
+    position: relative;
+}
